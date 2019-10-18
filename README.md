@@ -1,6 +1,4 @@
-Docker Curriculum
-===
+# On this lab I did:
+# https://docker-curriculum.com/
+# but I moved all the file from docker-curriculm to be in thiw way :)
 
-> Learn to build and deploy your distributed applications easily to the cloud with Docker
-
-Follow the curriculum on [docker-curriculum.com](https://docker-curriculum.com/)
